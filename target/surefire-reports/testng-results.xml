@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="6" total="7" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="com.java.test.LoginTest" duration-ms="20869" started-at="2020-03-02T17:43:53Z" finished-at="2020-03-02T17:44:13Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="20869" started-at="2020-03-02T17:43:53Z" finished-at="2020-03-02T17:44:13Z">
+      <class name="com.java.test.LoginTest">
+        <test-method status="PASS" signature="init()[pri:0, instance:com.java.test.LoginTest@6aaa5eb0]" name="init" is-config="true" duration-ms="5977" started-at="2020-03-02T17:43:53Z" finished-at="2020-03-02T17:43:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="loginSuccessTest()[pri:0, instance:com.java.test.LoginTest@6aaa5eb0]" name="loginSuccessTest" duration-ms="14145" started-at="2020-03-02T17:43:59Z" finished-at="2020-03-02T17:44:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginSuccessTest -->
+        <test-method status="PASS" signature="destroy()[pri:0, instance:com.java.test.LoginTest@6aaa5eb0]" name="destroy" is-config="true" duration-ms="725" started-at="2020-03-02T17:44:13Z" finished-at="2020-03-02T17:44:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- destroy -->
+      </class> <!-- com.java.test.LoginTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- com.java.test.LoginTest -->
+</testng-results>
